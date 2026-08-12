@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Database files (if using SQLite locally)
+*.db
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log

@@ -1,5 +1,7 @@
 PRODUCTS = [
+
     {
+        "product_id": 1,
         "product_name": "Sona Masoori Rice 5kg",
         "category": "Rice & Grains",
         "unit_price": 350,
@@ -10,7 +12,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 2,
         "product_name": "Basmati Rice 5kg",
         "category": "Rice & Grains",
         "unit_price": 550,
@@ -21,7 +25,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 3,
         "product_name": "Wheat Flour (Atta) 5kg",
         "category": "Rice & Grains",
         "unit_price": 250,
@@ -32,7 +38,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 4,
         "product_name": "Toor Dal 1kg",
         "category": "Pulses & Lentils",
         "unit_price": 140,
@@ -43,7 +51,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 5,
         "product_name": "Moong Dal 1kg",
         "category": "Pulses & Lentils",
         "unit_price": 130,
@@ -54,7 +64,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 6,
         "product_name": "Rajma (Kidney Beans) 1kg",
         "category": "Pulses & Lentils",
         "unit_price": 160,
@@ -65,7 +77,9 @@ PRODUCTS = [
         "noise_range": (0.85, 1.15),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 7,
         "product_name": "Turmeric Powder 200g",
         "category": "Masalas & Spices",
         "unit_price": 60,
@@ -76,7 +90,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 8,
         "product_name": "Garam Masala 100g",
         "category": "Masalas & Spices",
         "unit_price": 80,
@@ -87,7 +103,9 @@ PRODUCTS = [
         "noise_range": (0.4, 1.6),
         "zero_order_prob": 0.2,
     },
+
     {
+        "product_id": 9,
         "product_name": "Biryani Masala 100g",
         "category": "Masalas & Spices",
         "unit_price": 100,
@@ -98,7 +116,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 10,
         "product_name": "Almonds (Badam) 500g",
         "category": "Dry Fruits & Nuts",
         "unit_price": 450,
@@ -109,7 +129,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 11,
         "product_name": "Cashew Nuts (Kaju) 500g",
         "category": "Dry Fruits & Nuts",
         "unit_price": 550,
@@ -120,7 +142,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 12,
         "product_name": "Peanuts (Groundnut) 500g",
         "category": "Dry Fruits & Nuts",
         "unit_price": 90,
@@ -131,7 +155,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 13,
         "product_name": "Sunflower Oil 1L",
         "category": "Cooking Oils & Ghee",
         "unit_price": 180,
@@ -142,7 +168,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 14,
         "product_name": "Groundnut Oil 1L",
         "category": "Cooking Oils & Ghee",
         "unit_price": 220,
@@ -153,7 +181,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 15,
         "product_name": "Mustard Oil 1L",
         "category": "Cooking Oils & Ghee",
         "unit_price": 200,
@@ -164,7 +194,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 16,
         "product_name": "Pure Ghee 1L",
         "category": "Cooking Oils & Ghee",
         "unit_price": 600,
@@ -175,7 +207,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 17,
         "product_name": "Sugar 1kg",
         "category": "Sugar, Salt & Sweeteners",
         "unit_price": 45,
@@ -186,7 +220,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 18,
         "product_name": "Jaggery (Bella/Gud) 1kg",
         "category": "Sugar, Salt & Sweeteners",
         "unit_price": 70,
@@ -197,7 +233,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 19,
         "product_name": "Iodized Salt 1kg",
         "category": "Sugar, Salt & Sweeteners",
         "unit_price": 25,
@@ -208,7 +246,9 @@ PRODUCTS = [
         "noise_range": (0.9, 1.1),
         "zero_order_prob": 0.0,
     },
+
     {
+        "product_id": 20,
         "product_name": "Rock Salt (Sendha Namak) 500g",
         "category": "Sugar, Salt & Sweeteners",
         "unit_price": 40,
@@ -219,4 +259,5 @@ PRODUCTS = [
         "noise_range": (0.4, 1.6),
         "zero_order_prob": 0.2,
     },
+
 ]
